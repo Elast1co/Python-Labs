@@ -1,7 +1,7 @@
 #Example with a list 
 fruits = ["apples","banana","cherry"]
 print ("banana" in fruits)
-print ("grapes" in fruits)
+print ("grapeees" in fruits)
 if "banana" in fruits:
     print ("Theres food for the monkeys")
 else :
